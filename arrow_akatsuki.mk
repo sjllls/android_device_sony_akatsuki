@@ -7,10 +7,10 @@
 # Inherit from akatsuki device
 $(call inherit-product, device/sony/akatsuki/device.mk)
 
-# Inherit some common Lineage stuff.
-$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
+# Inherit some common arrow stuff.
+$(call inherit-product, vendor/arrow/config/common.mk)
 
-PRODUCT_NAME := lineage_akatsuki
+PRODUCT_NAME := arrow_akatsuki
 PRODUCT_DEVICE := akatsuki
 PRODUCT_MANUFACTURER := Sony
 PRODUCT_BRAND := Sony

@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_akatsuki.mk
+    $(LOCAL_DIR)/arrow_akatsuki.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_akatsuki-user \
-    lineage_akatsuki-userdebug \
-    lineage_akatsuki-eng
+    arrow_akatsuki-user \
+    arrow_akatsuki-userdebug \
+    arrow_akatsuki-eng
