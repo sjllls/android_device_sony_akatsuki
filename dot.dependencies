@@ -1,5 +1,9 @@
 [
   {
+    "repository": "android_vendor_sony_akatsuki",
+    "target_path": "vendor/sony/akatsuki"
+  },
+  {
     "repository": "android_device_sony_tama-common",
     "target_path": "device/sony/tama-common"
   }
